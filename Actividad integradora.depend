@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/main.cpp
+	"login.h"
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/academico.cpp
+	"academico.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/academico.h
+	<string>
+	<cstring>
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/formacion.cpp
+	"formacion.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/formacion.h
+	"fecha.h"
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/fecha.cpp
+	"fecha.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/fecha.h
+	<string>
+	<cstring>
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/produccion.cpp
+	"produccion.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/produccion.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/docencia.cpp
+	"docencia.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/docencia.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/tutoria.cpp
+	"tutoria.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/tutoria.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1526376686 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/login.cpp
+	"login.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/login.h
+	"menuadmin.h"
+
+1526428490 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/menuadmin.cpp
+	"menuadmin.h"
+
+1526427358 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/menuadmin.h
+	"menuusr.h"
+
+1526428380 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/menuusr.cpp
+	"menuusr.h"
+
+1526427358 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/menuusr.h
+	"usuario.h"
+	"academico.h"
+	"dependiente.h"
+	"formacion.h"
+	"docencia.h"
+	"tutoria.h"
+	"produccion.h"
+	"autor.h"
+	"Lista.h"
+	"listaproduccion.h"
+	<fstream>
+	<iostream>
+	<regex>
+
+1526427358 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/usuario.cpp
+	"usuario.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/usuario.h
+	<string>
+	<cstring>
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/dependiente.cpp
+	"dependiente.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/dependiente.h
+	<string>
+	<cstring>
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/autor.cpp
+	"autor.h"
+
+1526371621 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/autor.h
+	<string>
+	<cstring>
+
+1526371621 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/Lista.cpp
+	"Lista.h"
+
+1526427358 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/Lista.h
+	<string>
+	<cstring>
+	"academico.h"
+
+1526427358 source:/home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/listaproduccion.cpp
+	"listaproduccion.h"
+
+1526427358 /home/lumartch/Documentos/CUCEI/Estructura de datos II/Actividad Integradora/Actividad integradora/listaproduccion.h
+	<string>
+	<cstring>
+	"produccion.h"
+
+1526433410 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\academico.cpp
+	"academico.h"
+
+1526433412 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\academico.h
+	<string>
+	<cstring>
+
+1526433417 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\autor.cpp
+	"autor.h"
+
+1526433418 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\autor.h
+	<string>
+	<cstring>
+
+1526433419 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\dependiente.cpp
+	"dependiente.h"
+
+1526433420 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\dependiente.h
+	<string>
+	<cstring>
+
+1526433422 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\docencia.cpp
+	"docencia.h"
+
+1526433423 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\docencia.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1526433426 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\fecha.h
+	<string>
+	<cstring>
+
+1526433425 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\fecha.cpp
+	"fecha.h"
+
+1526433427 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\formacion.cpp
+	"formacion.h"
+
+1526433428 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\formacion.h
+	"fecha.h"
+
+1526433449 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\lista.cpp
+	"Lista.h"
+
+1526433451 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\lista.h
+	<string>
+	<cstring>
+	"academico.h"
+
+1526433452 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\listaproduccion.cpp
+	"listaproduccion.h"
+
+1526433454 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\listaproduccion.h
+	<string>
+	<cstring>
+	"produccion.h"
+
+1526433442 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\produccion.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1526433430 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\login.cpp
+	"login.h"
+
+1526433431 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\login.h
+	"menuadmin.h"
+
+1526433436 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\menuadmin.h
+	"menuusr.h"
+
+1526433439 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\menuusr.h
+	"usuario.h"
+	"academico.h"
+	"dependiente.h"
+	"formacion.h"
+	"docencia.h"
+	"tutoria.h"
+	"produccion.h"
+	"autor.h"
+	"Lista.h"
+	"listaproduccion.h"
+	<fstream>
+	<iostream>
+	<regex>
+
+1526433448 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\usuario.h
+	<string>
+	<cstring>
+
+1526433445 c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\tutoria.h
+	<string>
+	<cstring>
+	"fecha.h"
+
+1526433432 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\main.cpp
+	"login.h"
+
+1526433434 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\menuadmin.cpp
+	"menuadmin.h"
+
+1526433438 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\menuusr.cpp
+	"menuusr.h"
+
+1526433441 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\produccion.cpp
+	"produccion.h"
+
+1526433444 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\tutoria.cpp
+	"tutoria.h"
+
+1526433446 source:c:\users\lumar\onedrive\cucei\estructura de datos ii\actividad integradora\actividad integradora\usuario.cpp
+	"usuario.h"
+

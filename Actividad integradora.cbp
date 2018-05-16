@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Actividad integradora" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Actividad integradora" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Actividad integradora" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Lista.cpp" />
+		<Unit filename="Lista.h" />
+		<Unit filename="academico.cpp" />
+		<Unit filename="academico.h" />
+		<Unit filename="autor.cpp" />
+		<Unit filename="autor.h" />
+		<Unit filename="dependiente.cpp" />
+		<Unit filename="dependiente.h" />
+		<Unit filename="docencia.cpp" />
+		<Unit filename="docencia.h" />
+		<Unit filename="fecha.cpp" />
+		<Unit filename="fecha.h" />
+		<Unit filename="formacion.cpp" />
+		<Unit filename="formacion.h" />
+		<Unit filename="listaproduccion.cpp" />
+		<Unit filename="listaproduccion.h" />
+		<Unit filename="login.cpp" />
+		<Unit filename="login.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menuadmin.cpp" />
+		<Unit filename="menuadmin.h" />
+		<Unit filename="menuusr.cpp" />
+		<Unit filename="menuusr.h" />
+		<Unit filename="produccion.cpp" />
+		<Unit filename="produccion.h" />
+		<Unit filename="tutoria.cpp" />
+		<Unit filename="tutoria.h" />
+		<Unit filename="usuario.cpp" />
+		<Unit filename="usuario.h" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
